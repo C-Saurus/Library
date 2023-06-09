@@ -1,0 +1,22 @@
+.wrapper {
+  display: block;
+  min-height: 87vh;
+  position: relative;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  min-height: 60px;
+  width: 100%;
+  display: block;
+  z-index: 10;
+  background-color: rgb(191, 225, 225);
+} 
+
+.footer_btn {
+  right: 20px;
+  margin-top: 10px;
+  position: absolute;
+}

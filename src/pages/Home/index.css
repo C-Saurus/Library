@@ -1,0 +1,14 @@
+.home_img {
+  object-fit: cover;
+  height: 300px;
+  padding: 2px 2px;
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+.home_title {
+  height: 25px;
+  width: auto;
+  text-overflow: unset;
+  overflow: hidden;
+}
